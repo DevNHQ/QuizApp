@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">On Trac Nghiem THPT</string>
+    <string name="facebook_app_id">595301440890605</string><string name="fb_login_protocol_scheme">fb595301440890605</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="username">Tên đăng nhập !</string>
+    <string name="password">Mật Khẩu !</string>
+    <string name="app_login">Đăng Nhập</string>
+    <string name="app_create">Tạo tài khoản !</string>
+    <string name="app_dangki">Đăng Kí</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_danhsach">Danh sách câu trả lời </string>
+    <string name="action_dong">Đóng</string>
+    <string name="action_ketthuc">Kết Thúc</string>
+    <string name="app_ketqua">Kết Quả</string>
+    <string name="app_caudung">Số câu đúng   :</string>
+    <string name="app_causai">Số câu sai  :</string>
+    <string name="app_cauchuatraloi">Số câu chưa làm  :</string>
+    <string name="app_diem">Tổng Điểm</string>
+    <string name="app_lamlai">Làm Lại</string>
+    <string name="app_luudiem">Lưu Điểm</string>
+    <string name="app_thoat">Thoát</string>
+    <string name="app_chamngonn">Chinh phục mọi thứ </string>
+    <string name="app_loginn">Trải Nghiệm Ngay</string>
+    <string name="action_hoten">Họ Tên </string>
+    <string name="action_monhoc">Môn học</string>
+    <string name="action_tongquan">Tổng quan</string>
+    <string name="action_diem">Tổng điểm</string>
+    <string name="action_ttSu">Trắc nghiệm Lịch Sử</string>
+    <string name="action_ttsinh">Trắc nghiệm Sinh học</string>
+    <string name="action_ttgdcd">Trắc nghiệm GDCD</string>
+    <string name="action_ttdialy">Trắc nghiệm Địa lý</string>
+</resources>
